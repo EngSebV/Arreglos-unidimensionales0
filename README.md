@@ -1,5 +1,4 @@
 # Taller arreglos unidimensionales
-##Sebastian Constain Valencia y Sebastian Paez Castañeda
 
 Este proyecto permite al usuario ingresar los vértices y las caras de una figura geométrica en 3D a traves de una terminal. Despues, imprime la estructura de la figura en formato de vértices y caras.
 
